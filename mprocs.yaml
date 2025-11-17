@@ -1,0 +1,9 @@
+procs:
+  nextjs:
+    cmd: ['pnpm', 'run', 'dev']
+
+  prisma:
+    cmd: ['pnpm', 'prisma', 'studio']
+
+  inngest:
+    cmd: ['pnpm', 'dlx', 'inngest-cli@latest', 'dev']

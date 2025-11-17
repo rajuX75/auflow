@@ -1,0 +1,20 @@
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+ERROR [mprocs::error] Error: channel closed
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Users\\Madara Uchiha\\Desktop\\auflow\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"pnpm dlx\" inngest:dev\0"` in cwd `Some("C:\\Users\\Madara Uchiha\\Desktop\\auflow\0")` failed: The system cannot find the file specified. (os error 2)
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+ERROR [mprocs::error] Error: channel closed
